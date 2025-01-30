@@ -51,6 +51,7 @@ int main() {
                 letra++;
             }
 
+
             if (letra > 'h') {
                 printf("Limite máximo de códigos (h04) atingido.\n");
                 break;
